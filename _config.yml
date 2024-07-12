@@ -16,7 +16,7 @@ timezone: America/Los_Angeles
 
 title: Ian's Midday Musings # the main title
 
-tagline: A collection of my code, curiosities, and creative Ventures. # it will display as the sub-title
+tagline: <br> A collection of my code, curiosities, and creative ventures. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   On this blog, I share insights into my tech/programming endeavors, reflective essays on personal growth, and creative explorations. Whether it's a new project, a DIY craft, or a random thought, I aim to capture the essence of my journey.
